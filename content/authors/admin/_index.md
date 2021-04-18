@@ -6,12 +6,12 @@ title: Jun Chuan Chiew
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer
+role: Software Engineer & Computer Vision Enthusiast
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: ASUS-AICS
-  url: https://aics.asus.com/
+#organizations:
+#- name: ASUS-AICS
+#  url: https://aics.asus.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
