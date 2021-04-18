@@ -20,7 +20,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Deep Learning
 - Computer Vision
-- Cloud Native Application
+- Machine Learning Operations
+- Cloud Native Applications
 
 # Education to show in About widget
 education:
