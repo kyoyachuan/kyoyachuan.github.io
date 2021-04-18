@@ -11,5 +11,5 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-    url: https://kyoyachuan.github.io/kyoyachuan.CV/cv.pdf
+    url: kyoyachuan.CV/cv.pdf
     weight: 70
