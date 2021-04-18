@@ -1,0 +1,15 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+  - name: Contact
+    url: '#contact'
+    weight: 60
+  - name: CV
+    url: https://kyoyachuan.github.io/kyoyachuan.CV/cv.pdf
+    weight: 70
