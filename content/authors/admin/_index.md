@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: BSc in Risk Management and Insurance
-    institution: National Cheng Chi University
+    institution: National Chengchi University
     year: 2012
 
 # Social/Academic Networking
