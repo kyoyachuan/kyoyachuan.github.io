@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jun Chuan Chiew # Website name
-baseurl: '' # Website URL
+baseurl: 'https://kyoyachuan.github.io' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
