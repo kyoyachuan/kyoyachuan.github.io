@@ -1,5 +1,8 @@
 (() => {
   // <stdin>
+  /*! Wowchemy v5.1.0 | https://wowchemy.com/ */
+  /*! Copyright 2016-present George Cushen (https://georgecushen.com/) */
+  /*! License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md */
   (() => {
     var a = Object.assign || function(d2) {
       for (var a2 = 1, b2, c2; a2 < arguments.length; a2++) {
@@ -527,6 +530,3 @@
     });
   })();
 })();
-/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */
-/*! License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md */
-/*! Wowchemy v5.1.0 | https://wowchemy.com/ */
